@@ -17,7 +17,7 @@ export const config = {
         sessionData: process.env.WHATSAPP_SESSION,
     },
     email: {
-        address: process.env.EMAIL_ADDRESS || 'your-email@gmail.com',
-        password: process.env.EMAIL_PASSWORD || 'your-app-specific-password'
+        address: process.env.EMAIL_ADDRESS || 'mypropoutai@gmail.com',
+        password: process.env.EMAIL_PASSWORD || 'ycjcmmotwlauegou'
     }
 }; 

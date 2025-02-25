@@ -1,0 +1,27 @@
+[0225/101011.864:INFO:CONSOLE(158)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yD/r/roRjh1O0Y8L.js (158)
+[0225/101012.632:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0225/101012.632:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'attribution-reporting'.", source:  (0)
+[0225/101012.633:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'compute-pressure'.", source:  (0)
+[0225/101012.633:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0225/101012.633:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'private-state-token-issuance'.", source:  (0)
+[0225/101012.634:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'shared-storage'.", source:  (0)
+[0225/101012.634:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'shared-storage-select-url'.", source:  (0)
+[0225/101012.634:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'private-state-token-redemption'.", source:  (0)
+[0225/101012.634:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0225/101012.634:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0225/101016.207:INFO:CONSOLE(158)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yD/r/roRjh1O0Y8L.js (158)
+[0225/101133.015:INFO:CONSOLE(158)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yD/r/roRjh1O0Y8L.js (158)
+[0225/101324.859:INFO:CONSOLE(158)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yD/r/roRjh1O0Y8L.js (158)
+[0225/102802.412:INFO:CONSOLE(158)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yD/r/roRjh1O0Y8L.js (158)
+[0225/103058.498:INFO:CONSOLE(158)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yD/r/roRjh1O0Y8L.js (158)
+[0225/104529.611:INFO:CONSOLE(158)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yD/r/roRjh1O0Y8L.js (158)
+[0225/104618.543:INFO:CONSOLE(158)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yD/r/roRjh1O0Y8L.js (158)
+[0225/104651.006:INFO:CONSOLE(158)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yD/r/roRjh1O0Y8L.js (158)
+[0225/104944.801:INFO:CONSOLE(158)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yD/r/roRjh1O0Y8L.js (158)
+[0225/105114.464:INFO:CONSOLE(158)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yD/r/roRjh1O0Y8L.js (158)
+[0225/105314.865:INFO:CONSOLE(158)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yD/r/roRjh1O0Y8L.js (158)
+[0225/112324.794:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0225/112327.592:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0225/112332.664:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0225/112342.709:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.
+[0225/112402.744:WARNING:dns_config_service_win.cc(584)] Failed to read DnsConfig.

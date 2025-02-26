@@ -1,5 +1,3 @@
-2025/02/25-10:06:33.303 98e0 Reusing MANIFEST C:\Users\laon\Desktop\work space\ai\facebookai\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
-2025/02/25-10:06:33.304 98e0 Recovering log #13
-2025/02/25-10:06:33.304 98e0 Level-0 table #16: started
-2025/02/25-10:06:34.032 98e0 Level-0 table #16: 15672 bytes OK
-2025/02/25-10:06:34.042 98e0 Delete type=0 #13
+2025/02/26-21:04:49.356 5c04 Reusing MANIFEST C:\Users\laon\Desktop\work space\ai\facebookai\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/02/26-21:04:49.358 5c04 Recovering log #17
+2025/02/26-21:04:49.404 5c04 Reusing old log C:\Users\laon\Desktop\work space\ai\facebookai\.wwebjs_auth\session\Default\Local Storage\leveldb/000017.log 

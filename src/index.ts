@@ -6,7 +6,7 @@ import { config } from './config/config';
 import { Property } from './models/property';
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 8001;
 
 // Initialize services
 const whatsappBot = new WhatsAppBot(30);
